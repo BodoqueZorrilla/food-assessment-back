@@ -1,7 +1,8 @@
 import http from 'http';
 import express, { Express } from 'express';
 import morgan from 'morgan';
-import routes from './routes/foods';
+import routesFood from './routes/foods';
+import routesCategory from './routes/categories';
 
 const router: Express = express();
 
@@ -19,7 +20,8 @@ router.use((req, res, next) => {
     next();
 });
 
-router.use('/', routes);
+router.use('/', routesFood);
+router.use('/', routesCategory);
 
 router.use((req, res, next) => {
     const error = new Error('not found');

@@ -1,15 +1,17 @@
 /** source/controllers/posts.ts */
 import { Request, Response, NextFunction } from 'express';
-import axios, { AxiosResponse } from 'axios';
-import httpsAgent from '../helpers/agent'
 import { Meals } from '../models/meals';
 
-// getting a single food
+const fs = require('fs');
+const path = require('path');
+
 const getFood = async (req: Request, res: Response, next: NextFunction) => {
-    // get the food id from the req
-    let id: string = req.params.id;
-    let result: AxiosResponse = await axios.get(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${id}`, { httpsAgent });
-    let meal: Meals = result.data.meals[0];
+    const category: string = req.params.category;
+    const id: string = req.params.id;
+    const filePath = path.join(__dirname, `jsons/${category}.json`);
+    const data = fs.readFileSync(filePath, 'utf8');
+    const jsonData: Meals[] = JSON.parse(data);
+    const meal = jsonData.filter(item => item.idMeal === id);
     return res.status(200).json(meal);
 };
 

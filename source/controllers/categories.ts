@@ -24,7 +24,6 @@ const getCategories = async (req: Request, res: Response, next: NextFunction) =>
 
 const getCategoryFoods = async (req: Request, res: Response, next: NextFunction) => {
     let categoryName: string = req.params.categoryName
-    console.log(categoryName)
     const filePath = path.join(__dirname, `jsons/${categoryName}.json`);
     const fileExists = await fs.promises.access(filePath, fs.constants.F_OK).then(() => true).catch(() => false);
     let mealsByCategory: Meals[] = [];

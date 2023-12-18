@@ -36,7 +36,7 @@ const getCategoryFoods = async (req: Request, res: Response, next: NextFunction)
         let result: AxiosResponse = await axios.get(`http://www.themealdb.com/api/json/v1/1/filter.php?c=${categoryName}`, { httpsAgent });
         const meals = result.data.meals;
         if (meals) {
-            saveFoodData(meals, categoryName)
+            await saveFoodData(meals, categoryName)
             const data = fs.readFileSync(filePath, 'utf8');
             const jsonData = JSON.parse(data);
             mealsByCategory = jsonData
@@ -72,6 +72,7 @@ async function saveFoodData(foodData: Meals[], category: string) {
         'utf8',
       );
     } catch (error) {
+      console.log("Errorr -> ", error)
       return
     }
   }

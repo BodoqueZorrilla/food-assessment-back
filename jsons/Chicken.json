@@ -1,0 +1,247 @@
+[
+  {
+    "idMeal": "53050",
+    "strMeal": "Ayam Percik",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 26.01
+  },
+  {
+    "idMeal": "52940",
+    "strMeal": "Brown Stew Chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 81.01
+  },
+  {
+    "idMeal": "53016",
+    "strMeal": "Chick-Fil-A Sandwich",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 45.01
+  },
+  {
+    "idMeal": "52846",
+    "strMeal": "Chicken & mushroom Hotpot",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 91.01
+  },
+  {
+    "idMeal": "52796",
+    "strMeal": "Chicken Alfredo Primavera",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 64.01
+  },
+  {
+    "idMeal": "52934",
+    "strMeal": "Chicken Basquaise",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 88.01
+  },
+  {
+    "idMeal": "52956",
+    "strMeal": "Chicken Congee",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 86.01
+  },
+  {
+    "idMeal": "52850",
+    "strMeal": "Chicken Couscous",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 72.01
+  },
+  {
+    "idMeal": "52765",
+    "strMeal": "Chicken Enchilada Casserole",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 40.01
+  },
+  {
+    "idMeal": "52818",
+    "strMeal": "Chicken Fajita Mac and Cheese",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 66.01
+  },
+  {
+    "idMeal": "52875",
+    "strMeal": "Chicken Ham and Leek Pie",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 16.01
+  },
+  {
+    "idMeal": "52795",
+    "strMeal": "Chicken Handi",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 48.01
+  },
+  {
+    "idMeal": "52831",
+    "strMeal": "Chicken Karaage",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 36.01
+  },
+  {
+    "idMeal": "52920",
+    "strMeal": "Chicken Marengo",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 29.01
+  },
+  {
+    "idMeal": "52879",
+    "strMeal": "Chicken Parmentier",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 92.01
+  },
+  {
+    "idMeal": "53011",
+    "strMeal": "Chicken Quinoa Greek Salad",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 73.01
+  },
+  {
+    "idMeal": "52832",
+    "strMeal": "Coq au vin",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 48.01
+  },
+  {
+    "idMeal": "52830",
+    "strMeal": "Crock Pot Chicken Baked Tacos",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 24.01
+  },
+  {
+    "idMeal": "52996",
+    "strMeal": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 25.01
+  },
+  {
+    "idMeal": "52951",
+    "strMeal": "General Tso's Chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 72.01
+  },
+  {
+    "idMeal": "52993",
+    "strMeal": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 84.01
+  },
+  {
+    "idMeal": "52937",
+    "strMeal": "Jerk chicken with rice & peas",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 17.01
+  },
+  {
+    "idMeal": "52820",
+    "strMeal": "Katsu Chicken curry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 35.01
+  },
+  {
+    "idMeal": "52813",
+    "strMeal": "Kentucky Fried Chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 23.01
+  },
+  {
+    "idMeal": "52945",
+    "strMeal": "Kung Pao Chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 61.01
+  },
+  {
+    "idMeal": "52851",
+    "strMeal": "Nutty Chicken Curry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 101.01
+  },
+  {
+    "idMeal": "52774",
+    "strMeal": "Pad See Ew",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 80.01
+  },
+  {
+    "idMeal": "53039",
+    "strMeal": "Piri-piri chicken and slaw",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 46.01
+  },
+  {
+    "idMeal": "52780",
+    "strMeal": "Potato Gratin with Chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 23.01
+  },
+  {
+    "idMeal": "52933",
+    "strMeal": "Rappie Pie",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 96.01
+  },
+  {
+    "idMeal": "53020",
+    "strMeal": "Rosół (Polish Chicken Soup)",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 42.01
+  },
+  {
+    "idMeal": "53028",
+    "strMeal": "Shawarma",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 76.01
+  },
+  {
+    "idMeal": "52806",
+    "strMeal": "Tandoori chicken",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 79.01
+  },
+  {
+    "idMeal": "52772",
+    "strMeal": "Teriyaki Chicken Casserole",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 39.01
+  },
+  {
+    "idMeal": "52814",
+    "strMeal": "Thai Green Curry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+    "strCategory": "Chicken",
+    "doublePrice": 56.01
+  }
+]

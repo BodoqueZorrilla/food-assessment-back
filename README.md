@@ -32,8 +32,41 @@ npm run dev
 
 * [themealdb](https://www.themealdb.com/api.php) - API Images
 * [NodeJS](https://nodejs.org/en/learn/getting-started/nodejs-with-typescript) - Language
+* [NestJS] - [https://nestjs.com](https://nestjs.com/)
 
 
----
-⌨️ with ❤️ by [BodoqueZorrilla](https://www.linkedin.com/in/sergio-eduardo-zorrilla-arellano-78bb0994/) 😊
 
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
+
+
+⌨ with ❤️ by [BodoqueZorrilla](https://www.linkedin.com/in/sergio-eduardo-zorrilla-arellano-78bb0994/) 😊

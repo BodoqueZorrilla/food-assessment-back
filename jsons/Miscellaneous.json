@@ -1,0 +1,79 @@
+[
+  {
+    "idMeal": "52848",
+    "strMeal": "Bean & Sausage Hotpot",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 65.01
+  },
+  {
+    "idMeal": "52939",
+    "strMeal": "Callaloo Jamaican Style",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 49.01
+  },
+  {
+    "idMeal": "52969",
+    "strMeal": "Chakchouka ",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 39.01
+  },
+  {
+    "idMeal": "52907",
+    "strMeal": "Duck Confit",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 84.01
+  },
+  {
+    "idMeal": "52815",
+    "strMeal": "French Lentils With Garlic and Thyme",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 48.01
+  },
+  {
+    "idMeal": "52915",
+    "strMeal": "French Omelette",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 88.01
+  },
+  {
+    "idMeal": "52810",
+    "strMeal": "Osso Buco alla Milanese",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 63.01
+  },
+  {
+    "idMeal": "53014",
+    "strMeal": "Pizza Express Margherita",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 14.01
+  },
+  {
+    "idMeal": "52804",
+    "strMeal": "Poutine",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 63.01
+  },
+  {
+    "idMeal": "52912",
+    "strMeal": "Three-cheese souffles",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 42.01
+  },
+  {
+    "idMeal": "52845",
+    "strMeal": "Turkey Meatloaf",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+    "strCategory": "Miscellaneous",
+    "doublePrice": 33.01
+  }
+]

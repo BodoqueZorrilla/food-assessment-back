@@ -3,6 +3,9 @@ import express, { Express } from 'express';
 import morgan from 'morgan';
 import routesFood from './routes/foods';
 import routesCategory from './routes/categories';
+import routesPayment from './routes/payment';
+import dotenv from 'dotenv';
+dotenv.config();
 
 const router: Express = express();
 
@@ -22,6 +25,7 @@ router.use((req, res, next) => {
 
 router.use('/', routesFood);
 router.use('/', routesCategory);
+router.use('/', routesPayment)
 
 router.use((req, res, next) => {
     const error = new Error('not found');
